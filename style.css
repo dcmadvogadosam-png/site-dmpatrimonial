@@ -604,3 +604,18 @@ footer p{
   .instagram-qr-frame { padding: 12px; border-width: 6px; border-radius: 24px; }
   .instagram-qr-frame img { border-radius: 16px; }
 }
+
+
+.featured-post{
+max-width:1200px;
+margin:-40px auto 60px;
+padding:20px;
+text-align:center;
+}
+.featured-image img{
+width:100%;
+max-width:900px;
+border-radius:24px;
+box-shadow:0 20px 50px rgba(0,0,0,.25);
+border:4px solid #d4a017;
+}
